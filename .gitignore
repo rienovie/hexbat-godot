@@ -2,4 +2,6 @@
 .editorconfig
 icon.svg
 icon.svg.import
-Resources/*
+Assets/*
+Scenes/*
+*.uid
