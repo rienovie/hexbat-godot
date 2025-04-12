@@ -21,6 +21,12 @@ G="*res://src/Global.gd"
 L="*res://src/Local.gd"
 S="*res://src/State.gd"
 
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/size/initial_position_type=0
+
 [input]
 
 ui_left={
